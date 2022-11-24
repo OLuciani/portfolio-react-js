@@ -1,0 +1,123 @@
+.titulo-skills {
+  color: #EF233C;
+  text-align: center;
+  padding-top: 11%;
+} 
+
+.caja-skills {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2% 0% 2% 0%;
+  line-height: 4vh;
+} 
+
+.box-skills1 li {
+  color: #8D99AE;
+  list-style-type: none;
+}
+
+.box-skills2 li {
+  color: #8D99AE;
+  list-style-type: none;
+}
+
+.photo-skills {
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 50%;
+  border: solid 1px black;
+  border-radius: 50%;
+  margin-bottom: 3%;
+}  
+
+.caja-skills li {
+  font-size: 20px;
+}
+
+.icono-javascript {
+  color: yellow;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.icono-react {
+  color: rgb(10, 174, 229);
+  margin-left: 10px;
+  font-size: 20px;
+}
+  
+.imagen-html5 {
+  color: red;
+  margin-left: 10px;
+  width: 20px;
+}
+
+.icono-css3 {
+  color: rgb(37, 168, 212);
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.icono-java {
+  margin-left: 10px;
+  font-size: 20px;
+  color: white;
+}
+
+.imagen-mysql {
+  margin-left: 10px;
+  width: 16px;
+}
+
+.imagen-node {
+  width: 20px;
+  margin-left: 10px;
+}
+
+.imagen-git {
+  background-color: white;
+  width: 20px;
+  margin-left: 10px;
+}
+
+.span-express {
+  font-size: 16px;
+  color: lightgreen;
+  margin-left: 10px;
+}
+
+
+@media (min-width: 426px) {
+  .photo-skills {
+    width: 30%; 
+
+  }
+
+  .titulo-skills {
+    padding-top: 9%;
+  } 
+}
+
+@media (min-width: 664px) {
+  .titulo-skills {
+    padding-top: 7%;
+  }
+}
+
+@media (min-width: 829px) {
+  .caja-skills {
+    flex-direction: row;
+  } 
+  .photo-skills {
+    margin-bottom: 0%;
+  }
+}
+
+@media (min-width: 1024px) {
+ .titulo-skills {
+   padding-top: 4.5%;
+ }
+} 

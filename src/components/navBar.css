@@ -1,0 +1,34 @@
+  .icono-burger {
+    color: #EF233C;
+    margin-left: 75%;
+  }
+  
+  .div-navbar {
+    padding: 8px 0px 8px 0px;
+    border-bottom: #8D99AE solid 1px;
+  }
+  
+  .navbar {
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+   /*  padding: 8px 0px 8px 0px;
+    border-bottom: #8D99AE solid 1px;*/
+  }  
+  
+  .button-header {
+    display: none;
+  }
+
+   @media (min-width: 426px) {
+    .icono-burger {
+      display: none;
+    } 
+  
+    .button-header {
+      display: block;
+    } 
+  } 
