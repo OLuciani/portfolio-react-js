@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-js/static/css/main.a2eb7d80.css",
-    "main.js": "/portfolio-react-js/static/js/main.5d136471.js",
+    "main.css": "/portfolio-react-js/static/css/main.82c6401f.css",
+    "main.js": "/portfolio-react-js/static/js/main.3116670a.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js",
     "static/media/clave-de-sol.jpeg": "/portfolio-react-js/static/media/clave-de-sol.ed7cd3448ae6f79b5b9b.jpeg",
     "static/media/luciani-automoviles.jpeg": "/portfolio-react-js/static/media/luciani-automoviles.f81625125e5208b1a6d6.jpeg",
@@ -13,12 +13,12 @@
     "static/media/skills.jpg": "/portfolio-react-js/static/media/skills.c88a3686e32025fdd40c.jpg",
     "static/media/html5.png": "/portfolio-react-js/static/media/html5.6f9a8699c0ea083043f5.png",
     "index.html": "/portfolio-react-js/index.html",
-    "main.a2eb7d80.css.map": "/portfolio-react-js/static/css/main.a2eb7d80.css.map",
-    "main.5d136471.js.map": "/portfolio-react-js/static/js/main.5d136471.js.map",
+    "main.82c6401f.css.map": "/portfolio-react-js/static/css/main.82c6401f.css.map",
+    "main.3116670a.js.map": "/portfolio-react-js/static/js/main.3116670a.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2eb7d80.css",
-    "static/js/main.5d136471.js"
+    "static/css/main.82c6401f.css",
+    "static/js/main.3116670a.js"
   ]
 }
