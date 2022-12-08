@@ -10,11 +10,11 @@ function AboutMe() {
         <div className="caja-about-me">
           <div>
             <p className="text-about-me">
-              Hola. Soy Desarrollador Web Full Stack.<br />
+              Soy Desarrollador Web Full Stack.<br />
               Me gusta el trabajo en equipo y me<br />
               motiva superar desafíos. Estoy en la<br />
-              búsqueda de una empresa que <br />
-              me permita potenciar mi desarrollo<br />
+              búsqueda de una empresa que me<br />
+              permita potenciar mi desarrollo<br />
               profesional.
             </p>
 
