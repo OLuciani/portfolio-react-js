@@ -7,8 +7,8 @@ function Inicio() {
    <>
       <div id="home" className='caja-inicio'>
         <div>
-          <p className='nombre-inicio'>Hola, soy <br />Oscar Miguel Luciani</p>
-
+          <p className='hola'>Hola, soy </p>
+          <p className='nombre-inicio'>Oscar Miguel Luciani</p>
           <p className='p-profesion-inicio'>Desarrollador Web Full Stack</p>
         </div>
 

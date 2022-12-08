@@ -2,12 +2,17 @@
     color: white;
     font-size: 24px;
     font-weight: bold;
-    padding-top: 5%;
  }
 
 .p-profesion-inicio {
     color:#8D99AE;
 }  
+
+.hola {
+    color:#8D99AE;
+    font-size: 24px;
+    padding-top: 5%;
+}
 
 .caja-inicio {
     display: flex;
@@ -32,10 +37,6 @@
         padding: 12% 0% 2% 0%;
     }
 
-    .nombre-inicio {
-        padding-top: 5%;
-    }
-
     .photo {
         width: 60%;
       } 
@@ -49,7 +50,11 @@
     }
     .nombre-inicio {
         font-size: 34px;
-        font-weight: bold;
+        font-weight: 700;
+     }
+
+     .hola {
+        font-size: 34px;
      }
 } 
 

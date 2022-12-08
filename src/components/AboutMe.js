@@ -13,7 +13,7 @@ function AboutMe() {
               Hola. Soy Desarrollador Web Full Stack.<br />
               Me gusta el trabajo en equipo y me<br />
               motiva superar desafíos. Estoy en la<br />
-              búsqueda de una empresa que me<br />
+              búsqueda de una empresa que <br />
               me permita potenciar mi desarrollo<br />
               profesional.
             </p>

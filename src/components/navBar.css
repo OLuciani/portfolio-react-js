@@ -2,6 +2,11 @@
     color: #EF233C;
     margin-left: 75%;
   }
+
+  .abreviatura-nombre {
+    color: #EF233C;
+    font-weight: 700;
+  }
   
   .div-navbar {
     padding: 8px 0px 8px 0px;
@@ -31,4 +36,8 @@
     .button-header {
       display: block;
     } 
+
+    .abreviatura-nombre {
+      display: none;
+    }
   } 

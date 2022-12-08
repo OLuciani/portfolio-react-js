@@ -7,6 +7,8 @@ function Navbar() {
     <>
       <div className='div-navbar'>
         <nav className="navbar">
+          <p className='abreviatura-nombre'>OL</p>
+
           <div className="button-header">
             <ComponentNavbar titulo={"Home"} id={"#home"} />
           </div>
