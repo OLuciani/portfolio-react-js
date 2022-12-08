@@ -27,7 +27,7 @@ function Contact() {
             
             <div className='item-contact'>         
               <p className="p-hipervinc">
-                <a className="p-contact p-hipervinc" href="https://wwww.linkedin.com/in/oscarluciani" target="_blank ">Linkedin: 
+                <a className="p-contact p-hipervinc" href="https://www.linkedin.com/in/oscarluciani" target="_blank ">Linkedin: 
                   <i className="fa-brands fa-linkedin-in icon-hiperv" />
                 </a>
               </p> 
