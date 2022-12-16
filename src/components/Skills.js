@@ -35,7 +35,7 @@ function Skills() {
           <li>Sequelize</li>
           <li>Vs Code</li>
           <li>Java<i className="fa-brands fa-java icono-java" /></li>    
-          <li>Inglés Básico - Sigo estudiando</li>
+          <li>Inglés - Sigo estudiando</li>
           <li>Italiano - Conversación</li>
         </ul>
       </div>
