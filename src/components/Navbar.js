@@ -26,7 +26,7 @@ function Navbar() {
           </div>
 
           <i onClick={()=>{let occult = document.querySelector(".sidebar");
-          occult.style.display = "block"}} class="fa-solid fa-bars icono-burger image-icon"></i>
+          occult.style.display = "block"}} className="fa-solid fa-bars icono-burger image-icon"></i>
         </nav>
       </div>
 

@@ -13,7 +13,7 @@ function Projects() {
 
         <div className="caja-projects">
           <div className="div-text-project">
-            <p className="text-projects">CLAVE DE SOL:<br/>Proyecto grupal de Ecommerce creado con Node JS, Express y MySQL en el marco de Digital House durante el curso de Desarrollo Web Full Stack.</p>
+            <p className="text-projects">CLAVE DE SOL:<br/>Proyecto grupal de Ecommerce creado con Node JS, Express y MySQL en el marco de Digital House.</p>
           </div>
 
           <img className="image-project" src={imagenclavedesol} alt="imagen-clave-de-sol" />
@@ -21,7 +21,7 @@ function Projects() {
 
         <div className="caja-projects">
           <div className="div-text-project">
-            <p className="text-projects">LUCIANI AUTOMOVILES:<br/>Proyecto de práctica individual de Ecommerce creado con Node JS, Express y MySQL.<br/>Todavía en ejecución.</p> 
+            <p className="text-projects">LUCIANI AUTOMOVILES:<br/>Proyecto de práctica individual de Ecommerce creado con Node JS, Express y MySQL.</p> 
           </div>
 
           <img className="image-project" src={imagenlucianiautomoviles} alt="imagen-luciani-automoviles" />
@@ -29,7 +29,7 @@ function Projects() {
 
         <div className="caja-projects">
           <div className="div-text-project">
-            <p className="text-projects">PORTFOLIO:<br/>Proyecto de este Portfolio creado con React Js con contenido estático.</p> 
+            <p className="text-projects">PORTFOLIO:<br/>Proyecto de este Portfolio creado con React Js.</p> 
           </div>
 
           <img className="image-project" src={imagenportfolio} alt="imagen-portfolio" />
