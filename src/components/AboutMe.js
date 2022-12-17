@@ -19,7 +19,7 @@ function AboutMe() {
             </p>
 
             <div className="div-button-download-CV">
-              <a href="./data/CV Oscar Miguel Luciani.pdf" download><button className='button-about-me'>Descargar CV</button></a>
+              <a href="./data/CV Oscar Miguel Luciani.pdf" download><button className='button-descargar-cv'>Descargar CV</button></a>
             </div>
 
           </div>

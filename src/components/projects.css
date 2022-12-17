@@ -1,5 +1,5 @@
 .titulo-projects {
-    color: #EF233C;
+    color: rgb(243, 136, 94);
     padding-top: 11%;
     text-align: center;
 } 
@@ -35,8 +35,7 @@
 .image-project {
   width: 310px;
   margin-left: 0.1%;
-  /* border-radius: 5%; */
-
+  border: solid 1px white;
 }
 
 
@@ -44,16 +43,47 @@
   .titulo-projects {
     padding-top: 9%;
   } 
+
+  .image-project {
+    width: 400px;
+    margin-left: 0.1%;
+  }
+
+  .div-text-project {
+    width: 400px;
+    text-align: left;
+  }
 }
 
 @media (min-width: 664px) {
   .titulo-projects {
     padding-top: 7%;
   }
+
+  .image-project {
+    width: 600px;
+    margin-left: 0.1%;
+  }
+
+  .div-text-project {
+    width: 600px;
+    text-align: left;
+  }
+  
 }
 
 @media (min-width: 1024px) {
   .titulo-projects {
     padding-top: 4.5%;
+  }
+
+  .image-project {
+    width: 900px;
+    margin-left: 0.1%;
+  }
+
+  .div-text-project {
+    width: 900px;
+    text-align: left;
   }
 } 

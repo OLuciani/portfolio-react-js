@@ -1,8 +1,8 @@
 import React from "react";
 import "./projects.css";
-import imagenclavedesol from "../img/clave-de-sol.jpeg";
-import imagenlucianiautomoviles from "../img/luciani-automoviles.jpeg";
-import imagenportfolio from "../img/portfolio.jpeg";
+import imagenclavedesol from "../img/clave-de-sol.png";
+import imagenlucianiautomoviles from "../img/luciani-automoviles.png";
+import imagenportfolio from "../img/portfolio.png";
 
 function Projects() {
   return (

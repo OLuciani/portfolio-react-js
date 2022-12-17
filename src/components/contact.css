@@ -1,5 +1,5 @@
 .titulo-contact {
-  color: #ef233c;
+  color: rgb(243, 136, 94);
   text-align: center;
   padding-top: 9%;
 }
@@ -26,12 +26,8 @@
   margin-left: 5%;
 }
 
-.icon-hiperv:hover {
-  color: #ef233c;
-}
-
 .p-hipervinc:hover {
-  color: #ef233c;
+  color: rgb(243, 136, 94);
 }  
 
 .p-info-contact {
@@ -43,7 +39,7 @@
 }
 
 .p-contact:hover .icon-hiperv{
-  color: #ef233c;
+  color: rgb(243, 136, 94);
 }
 
 .photo-contact {
