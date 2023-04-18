@@ -38,6 +38,38 @@
   border: solid 1px white;
 }
 
+.caja-luciani-automoviles {
+  text-align: center;
+}
+
+.div-button-ver-proyecto {
+  width: 150px;
+  margin: auto;
+  padding: 1.5% 0% 1.5% 0%;
+}
+
+.button-ver-proyecto {
+  text-align: center;
+  background-color: #2B2D42;
+  color: rgb(243, 136, 94);
+  /* font-size: 18px; */
+  font-weight: 700;
+  border: solid 2px rgb(243, 136, 94);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.button-ver-proyecto:hover {
+  background-color: #ef233c;
+  color: #8D99AE;;
+  border-color: #8D99AE;;
+}
+
+.image-project:hover {
+  /* border: solid 1px rgb(243, 136, 94); */
+  box-shadow: 3px 3px 6px white;
+ }
+
 
 @media (min-width: 426px) {
   .titulo-projects {
@@ -69,7 +101,10 @@
     width: 600px;
     text-align: left;
   }
-  
+
+  .div-button-ver-proyecto {
+    width: 180px;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -85,5 +120,9 @@
   .div-text-project {
     width: 900px;
     text-align: left;
+  }
+
+  .div-button-ver-proyecto {
+    width: 210px;
   }
 } 
