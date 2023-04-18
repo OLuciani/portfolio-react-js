@@ -65,11 +65,10 @@
   border-color: #8D99AE;;
 }
 
-.image-project:hover {
-  /* border: solid 1px rgb(243, 136, 94); */
+.caja-luciani-automoviles .image-project:hover {
   box-shadow: 3px 3px 6px white;
  }
-
+ 
 
 @media (min-width: 426px) {
   .titulo-projects {

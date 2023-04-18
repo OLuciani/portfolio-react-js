@@ -21,17 +21,17 @@ function Projects() {
 
         <div className="caja-projects">
           <div className="caja-luciani-automoviles">
-            <a href="https://luciani-automoviles.netlify.app/">
               <div className="div-text-project">
                 <p className="text-projects">LUCIANI AUTOMOVILES:<br/>Mern Stack Project usando Netlify para el Frontend (creado en React Js), Render para el Backend (creado en Node Js y Express Js) y MongoDB Atlas para la Base de Datos.</p> 
               </div>
 
+            <a href="https://luciani-automoviles.netlify.app/">
               <div className="div-image-project">
                 <img className="image-project" src={imagenlucianiautomoviles} alt="imagen-luciani-automoviles" />
               </div>
-            <div className="div-button-ver-proyecto">
-              <p className="button-ver-proyecto">Ver Proyecto</p>
-            </div>
+              <div className="div-button-ver-proyecto">
+                <p className="button-ver-proyecto">Ver Proyecto</p>
+              </div>
             </a>
           </div>
         </div>  
