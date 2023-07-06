@@ -38,7 +38,7 @@
   border: solid 1px white;
 }
 
-.caja-luciani-automoviles {
+.box-projects {
   text-align: center;
 }
 
@@ -65,8 +65,8 @@
   border-color: #8D99AE;;
 }
 
-.caja-luciani-automoviles .image-project:hover {
-  box-shadow: 3px 3px 6px white;
+.box-projects .image-project:hover {
+  box-shadow: 4px 4px 8px white;
  }
  
 
@@ -112,12 +112,12 @@
   }
 
   .image-project {
-    width: 900px;
+    width: 1000px;
     margin-left: 0.1%;
   }
 
   .div-text-project {
-    width: 900px;
+    width: 1000px;
     text-align: left;
   }
 
