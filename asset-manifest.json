@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio-react-js/static/css/main.534e4269.css",
-    "main.js": "/portfolio-react-js/static/js/main.97a56f2d.js",
+    "main.css": "/portfolio-react-js/static/css/main.e147b415.css",
+    "main.js": "/portfolio-react-js/static/js/main.784d5abc.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hernandez_cabañas.png": "/portfolio-react-js/static/media/hernandez_cabañas.c4e2c31dc712e1078e3e.png",
     "static/media/captura_pantalla-home.png": "/portfolio-react-js/static/media/captura_pantalla-home.ae81d246939a443ac45a.png",
     "static/media/portfolio.png": "/portfolio-react-js/static/media/portfolio.2ba71d8070af7dc5cdea.png",
     "static/media/node.png": "/portfolio-react-js/static/media/node.007e99f68b718e476aba.png",
@@ -12,12 +13,12 @@
     "static/media/skills.jpg": "/portfolio-react-js/static/media/skills.c88a3686e32025fdd40c.jpg",
     "static/media/html5.png": "/portfolio-react-js/static/media/html5.6f9a8699c0ea083043f5.png",
     "index.html": "/portfolio-react-js/index.html",
-    "main.534e4269.css.map": "/portfolio-react-js/static/css/main.534e4269.css.map",
-    "main.97a56f2d.js.map": "/portfolio-react-js/static/js/main.97a56f2d.js.map",
+    "main.e147b415.css.map": "/portfolio-react-js/static/css/main.e147b415.css.map",
+    "main.784d5abc.js.map": "/portfolio-react-js/static/js/main.784d5abc.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.534e4269.css",
-    "static/js/main.97a56f2d.js"
+    "static/css/main.e147b415.css",
+    "static/js/main.784d5abc.js"
   ]
 }
