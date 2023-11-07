@@ -19,23 +19,27 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 2% 0% 4% 0%;
+  padding: 2% 0% 2% 0%;
 }
 
 .div-text-project {
   width: 310px;
   text-align: left;
+  margin-bottom: 2%;
 }
 
 .text-projects {
   color: #8D99AE;
-  padding-bottom: 4%;
+  margin-bottom: 3%;
+}
+.title-text-projects {
+  font-size: 18px;
 }
 
 .image-project {
   width: 310px;
   margin-left: 0.1%;
-  border: solid 1px white;
+  /* border: solid 1px white; */
 }
 
 .caja-luciani-automoviles {
@@ -45,7 +49,7 @@
 .div-button-ver-proyecto {
   width: 150px;
   margin: auto;
-  padding: 1.5% 0% 1.5% 0%;
+  margin-top: 2%;
 }
 
 .button-ver-proyecto {
@@ -62,13 +66,26 @@
 .button-ver-proyecto:hover {
   background-color: #ef233c;
   color: #8D99AE;;
-  border-color: #8D99AE;;
+  border-color: #8D99AE;
 }
 
 .caja-luciani-automoviles .image-project:hover {
   box-shadow: 3px 3px 6px white;
  }
- 
+
+.contenedor-presentación {
+color: rgb(243, 136, 94);
+border: solid 2px rgb(243, 136, 94);
+border-radius: 5px;
+width: max-content;
+padding: 6px;
+}
+.contenedor-presentación:hover {
+background-color: #ef233c;
+color: #8D99AE;
+border-color: #8D99AE;
+}
+
 
 @media (min-width: 426px) {
   .titulo-projects {
