@@ -26,7 +26,7 @@ function Projects() {
           <div className="caja-luciani-automoviles">          
               <div className="div-text-project">
                 <span className="text-projects">
-                  <p className="title-text-projects">NearByTour:</p>
+                  <span className="title-text-projects">NearByTour:</span>
                   <br />
                   Es una aplicación versátil que te permite descubrir tesoros
                   ocultos y experiencias auténticas en destinos locales de todo
@@ -72,7 +72,7 @@ function Projects() {
           <div className="caja-luciani-automoviles">
               <div className="div-text-project">
                 <span className="text-projects">
-                  <p className="title-text-projects">Meddyplus:</p>
+                  <span className="title-text-projects">Meddyplus:</span>
                   <br />
                   App para una Clínica de Medicina Integral. Permite crear citas
                   médicas para atención online, crear historias clínicas online
@@ -115,7 +115,7 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <p className="title-text-projects">Hernandez Cabañas:</p>
+                <span className="title-text-projects">Hernandez Cabañas:</span>
                 <br />
                 App para reservas y alquiler de cabañas. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
               </span>
@@ -142,9 +142,9 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <p className="title-text-projects">
+                <span className="title-text-projects">
                   Luciani-Automóviles:
-                </p>
+                </span>
                 <br />
                 App de consecionaria de automóviles. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
               </span>
