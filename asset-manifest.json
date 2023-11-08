@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-js/static/css/main.8ffedd45.css",
-    "main.js": "/portfolio-react-js/static/js/main.9c6561a7.js",
+    "main.css": "/portfolio-react-js/static/css/main.18c17719.css",
+    "main.js": "/portfolio-react-js/static/js/main.d357bb2e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js",
     "static/media/hernandez_cabañas.png": "/portfolio-react-js/static/media/hernandez_cabañas.feba9b9fe6221737e1f3.png",
     "static/media/captura_pantalla-home.png": "/portfolio-react-js/static/media/captura_pantalla-home.ae81d246939a443ac45a.png",
@@ -10,16 +10,16 @@
     "static/media/node.png": "/portfolio-react-js/static/media/node.007e99f68b718e476aba.png",
     "static/media/contacts.jpg": "/portfolio-react-js/static/media/contacts.30cf766c9f903de5bb78.jpg",
     "static/media/desarrollador.webp": "/portfolio-react-js/static/media/desarrollador.10191a15868f266bb890.webp",
-    "static/media/foto-perfil.jpeg": "/portfolio-react-js/static/media/foto-perfil.db9fdf4dfd6530c6783a.jpeg",
+    "static/media/foto-perfil.jpeg": "/portfolio-react-js/static/media/foto-perfil.f62fceb1562c45a9a0d8.jpeg",
     "static/media/skills.jpg": "/portfolio-react-js/static/media/skills.c88a3686e32025fdd40c.jpg",
     "static/media/html5.png": "/portfolio-react-js/static/media/html5.6f9a8699c0ea083043f5.png",
     "index.html": "/portfolio-react-js/index.html",
-    "main.8ffedd45.css.map": "/portfolio-react-js/static/css/main.8ffedd45.css.map",
-    "main.9c6561a7.js.map": "/portfolio-react-js/static/js/main.9c6561a7.js.map",
+    "main.18c17719.css.map": "/portfolio-react-js/static/css/main.18c17719.css.map",
+    "main.d357bb2e.js.map": "/portfolio-react-js/static/js/main.d357bb2e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ffedd45.css",
-    "static/js/main.9c6561a7.js"
+    "static/css/main.18c17719.css",
+    "static/js/main.d357bb2e.js"
   ]
 }
