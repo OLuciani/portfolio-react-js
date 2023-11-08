@@ -19,7 +19,7 @@ function Skills() {
           <li>Typescript<i className="" /></li>
           <li>HTML<img className="imagen-html5" src={imagenhtml} alt="imagen-html5"/></li>    
           <li>CSS3<i className="fa-brands fa-css3 icono-css3" /></li>
-          <li>Tailwind css<i className="fa-brands fa-react icono-react" /></li>
+          <li>Tailwind css</li>
           <li>Node Js<img className="imagen-node" src={imagennode} alt="imagen-nodeJS"/></li>   
           <li>Express<span className="span-express">Express</span><i className="fa-brands fa-js icono-javascript" /></li>
           <li>MySQL<img className="imagen-mysql" src={imagenmysql} alt="imagen-mysql"/></li>
