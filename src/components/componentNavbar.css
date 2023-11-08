@@ -69,3 +69,10 @@
         display: block;
     }
 }
+
+@media (min-width: 664px) {
+    .button {
+        width: 95px;
+        font-size: 18px;
+    }
+}

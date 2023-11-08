@@ -9,7 +9,7 @@ function Inicio() {
         <div>
           <p className='hola'>Hola, soy </p>
           <p className='nombre-inicio'>Oscar Miguel Luciani</p>
-          <p className='p-profesion-inicio'>Desarrollador Web Full Stack</p>
+          <p className='p-profesion-inicio'>Frontend Developer</p>
         </div>
 
         <div className='div-photo'>

@@ -1,10 +1,11 @@
  .nombre-inicio {
     color: white;
     font-size: 24px;
-    font-weight: bold;
+    
  }
 
 .p-profesion-inicio {
+    font-size: 16px;
     color:#8D99AE;
 }  
 
@@ -48,13 +49,17 @@
         padding: 9% 0% 2% 0%;
     }
     .nombre-inicio {
-        font-size: 34px;
-        font-weight: 700;
+        font-size: 26px;
+        /* font-weight: 700; */
      }
 
      .hola {
-        font-size: 34px;
+        font-size: 26px;
      }
+
+     .p-profesion-inicio {
+        font-size: 18px;
+    }  
 } 
 
 @media (min-width: 1024px) {

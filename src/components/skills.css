@@ -1,4 +1,5 @@
 .titulo-skills {
+  font-size: 20px;
   color: rgb(243, 136, 94);
   text-align: center;
   padding-top: 11%;
@@ -25,16 +26,17 @@
 }
 
 .photo-skills {
-  margin-left: 3%;
-  margin-right: 3%;
+  /* margin-left: 3%;
+  margin-right: 3%; */
   width: 50%;
   border: solid 1px black;
   border-radius: 50%;
-  margin-bottom: 3%;
+  /* margin-bottom: 3%; */
+  margin: 3%;
 }  
 
 .caja-skills li {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .icono-javascript {
@@ -104,6 +106,11 @@
 @media (min-width: 664px) {
   .titulo-skills {
     padding-top: 7%;
+    font-size: 24px;
+  }
+
+  .caja-skills li {
+    font-size: 18px;
   }
 }
 

@@ -36,25 +36,27 @@ function Projects() {
                 </span>
               </div>
 
-              <a href="https://www.youtube.com/watch?v=Hc3N-QXwT7Q">
                 <div className="contenedor-presentación">
-                  <p>Video presentación del proyecto NearByTour</p>
+                  <a href="https://www.youtube.com/watch?v=Hc3N-QXwT7Q">
+                    <p>Video presentación de NearByTour</p>
+                  </a>
                 </div>
-              </a>
             </div>
 
-            <a href="https://nearbytour.vercel.app/home">
               <div className="div-image-project">
-                <img
-                  className="image-project"
-                  src={imagennearbytour}
-                  alt="Imágen NearByTour"
-                />
+                <a href="https://nearbytour.vercel.app/home">
+                  <img
+                    className="image-project"
+                    src={imagennearbytour}
+                    alt="Imágen NearByTour"
+                  />
+                </a>
               </div>
               <div className="div-button-ver-proyecto">
-                <p className="button-ver-proyecto">Ver Proyecto</p>
+                <a href="https://nearbytour.vercel.app/home">
+                  <p className="button-ver-proyecto">Ver App</p>
+                </a>
               </div>
-            </a>
           </div>
         </div>
 
@@ -71,25 +73,27 @@ function Projects() {
                 </span>
               </div>
 
-              <a href="https://d3ml0dc5hiowr8.cloudfront.net/meddyplus.mp4">
                 <div className="contenedor-presentación">
-                  <p>Video presentación del proyecto Meddyplus</p>
+                  <a href="https://d3ml0dc5hiowr8.cloudfront.net/meddyplus.mp4">
+                    <p>Video presentación de Meddyplus</p>
+                  </a>
                 </div>
-              </a>
             </div>
 
-            <a href="https://meddyplus.netlify.app/">
               <div className="div-image-project">
-                <img
-                  className="image-project"
-                  src={imagenMeddyplus}
-                  alt="Imágen Meddyplus"
-                />
+                <a href="https://meddyplus.netlify.app/">
+                  <img
+                    className="image-project"
+                    src={imagenMeddyplus}
+                    alt="Imágen Meddyplus"
+                  />
+                </a>
               </div>
               <div className="div-button-ver-proyecto">
-                <p className="button-ver-proyecto">Ver Proyecto</p>
+                <a href="https://meddyplus.netlify.app/">
+                  <p className="button-ver-proyecto">Ver App</p>
+                </a>
               </div>
-            </a>
           </div>
         </div>
 
@@ -103,43 +107,47 @@ function Projects() {
               </span>
             </div>
 
-            <a href="https://hernandez-cabanas.netlify.app/">
               <div className="div-image-project">
-                <img
-                  className="image-project"
-                  src={imagenhernandezcabañas}
-                  alt="imagen-hernandez-cabañas"
-                />
+                <a href="https://hernandez-cabanas.netlify.app/">
+                  <img
+                    className="image-project"
+                    src={imagenhernandezcabañas}
+                    alt="imagen-hernandez-cabañas"
+                  />
+                </a>
               </div>
               <div className="div-button-ver-proyecto">
-                <p className="button-ver-proyecto">Ver Proyecto</p>
+                <a href="https://hernandez-cabanas.netlify.app/">
+                  <p className="button-ver-proyecto">Ver App</p>
+                </a>
               </div>
-            </a>
           </div>
         </div>
 
         <div className="caja-projects">
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
-              <p className="text-projects">
-                LUCIANI AUTOMOVILES:
-                <br />
+              <span className="text-projects">
+                <span className="title-text-projects">Luciani-Automóviles:</span>
+                  <br />
                 Mern Stack Project. Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Base de datos en MongoDB Atlas. App de consecionaria de automóviles.
-              </p>
+              </span>
             </div>
 
-            <a href="https://luciani-automoviles.netlify.app/">
               <div className="div-image-project">
-                <img
-                  className="image-project"
-                  src={imagenlucianiautomoviles}
-                  alt="imagen-luciani-automoviles"
-                />
+                <a href="https://luciani-automoviles.netlify.app/">
+                  <img
+                    className="image-project"
+                    src={imagenlucianiautomoviles}
+                    alt="imagen-luciani-automoviles"
+                  />
+                </a>
               </div>
               <div className="div-button-ver-proyecto">
-                <p className="button-ver-proyecto">Ver Proyecto</p>
+                <a href="https://luciani-automoviles.netlify.app/">
+                  <p className="button-ver-proyecto">Ver App</p>
+                </a>
               </div>
-            </a>
           </div>
         </div>
 

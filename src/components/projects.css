@@ -1,4 +1,5 @@
 .titulo-projects {
+    font-size: 20px;
     color: rgb(243, 136, 94);
     padding-top: 11%;
     text-align: center;
@@ -25,7 +26,7 @@
 .div-text-project {
   width: 310px;
   text-align: left;
-  margin-bottom: 2%;
+  margin-bottom: 3%;
 }
 
 .text-projects {
@@ -34,6 +35,7 @@
 }
 .title-text-projects {
   font-size: 18px;
+  color: rgb(243, 136, 94)
 }
 
 .image-project {
@@ -69,21 +71,30 @@
   border-color: #8D99AE;
 }
 
-.box-projects .image-project:hover {
-  box-shadow: 4px 4px 8px white;
+.image-project:hover {
+  box-shadow: 4px 4px 8px rgb(243, 136, 94);
  }
 
 .contenedor-presentación {
-color: rgb(243, 136, 94);
 border: solid 2px rgb(243, 136, 94);
 border-radius: 5px;
 width: max-content;
 padding: 6px;
+margin: auto;
 }
+
+.contenedor-presentación a {
+  color: rgb(243, 136, 94);
+}
+
+.contenedor-presentación a:hover {
+  color: #8D99AE;
+}
+
 .contenedor-presentación:hover {
-background-color: #ef233c;
-color: #8D99AE;
-border-color: #8D99AE;
+  background-color: #ef233c;
+  border-color: #8D99AE;
+  color: #8D99AE;
 }
 
 
@@ -105,6 +116,7 @@ border-color: #8D99AE;
 
 @media (min-width: 664px) {
   .titulo-projects {
+    font-size: 24px;
     padding-top: 7%;
   }
 
@@ -121,6 +133,14 @@ border-color: #8D99AE;
   .div-button-ver-proyecto {
     width: 180px;
   }
+
+  .caja-madre {
+    font-size: 18px;
+  }
+
+  .div-text-project {
+    margin-bottom: 2%;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -129,12 +149,12 @@ border-color: #8D99AE;
   }
 
   .image-project {
-    width: 1000px;
+    width: 65vw;
     margin-left: 0.1%;
   }
 
   .div-text-project {
-    width: 1000px;
+    width: 65vw;
     text-align: left;
   }
 
