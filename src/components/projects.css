@@ -40,11 +40,16 @@
   color: rgb(243, 136, 94)
 }
 
+.div-image-project  {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
 .image-project {
   /* width: 310px; */
   width: 100%;
-  padding-left: 3%;
-  padding-right: 3%;
+ /*  padding-left: 3%;
+  padding-right: 3%; */
   margin-left: 0.1%;
   /* border: solid 1px white; */
 }
@@ -124,6 +129,18 @@ margin-bottom: 3%;
   .titulo-projects {
     font-size: 24px;
     padding-top: 7%;
+  }
+  .div-image-project a {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .image-project {
+    /* padding-left: 0%;
+    padding-right: 0%; */
+    width: 90%;
   }
 
   /* .image-project {

@@ -79,7 +79,7 @@ function Projects() {
                   y muchas otras funciones. Muy práctica tanto para el paciente
                   como para el médico. 
                   <br />
-                  Fue creada en No Coutry por un grupo de Desarrolladrores 3 en
+                  Fue creada en No Coutry por un grupo de Desarrolladrores, 3 en
                   el Frontend y 4 en el Backend. Yo trabajé en el Frontend.
                   <br />
                   Herramientas utilizadas: En el frontend
@@ -95,7 +95,7 @@ function Projects() {
               </div>
 
             <div className="div-image-project">
-              <a href="https://meddyplus.netlify.app/">
+              <a href="https://meddyplus.netlify.app">
                 <img
                   className="image-project"
                   src={imagenMeddyplus}
@@ -104,7 +104,7 @@ function Projects() {
               </a>
             </div>
             <div className="div-button-ver-proyecto">
-              <a href="https://meddyplus.netlify.app/">
+              <a href="https://meddyplus.netlify.app">
                 <p className="button-ver-proyecto">Ver App</p>
               </a>
             </div>
