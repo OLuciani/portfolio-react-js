@@ -51,7 +51,7 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://nearbytour.vercel.app/home">
-                <p className="button-ver-proyecto">Ver App</p>
+                <p className="button-ver-proyecto">Ver App NearByTour</p>
               </a>
             </div>
           </div>
@@ -94,7 +94,7 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://meddyplus.netlify.app">
-                <p className="button-ver-proyecto">Ver App</p>
+                <p className="button-ver-proyecto">Ver App Meddyplus</p>
               </a>
             </div>
           </div>
@@ -121,7 +121,7 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://hernandez-cabanas.netlify.app/">
-                <p className="button-ver-proyecto">Ver App</p>
+                <p className="button-ver-proyecto">Ver App Hernandez-Cabañas</p>
               </a>
             </div>
           </div>
@@ -150,7 +150,7 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://luciani-automoviles.netlify.app/">
-                <p className="button-ver-proyecto">Ver App</p>
+                <p className="button-ver-proyecto">Ver App Luciani-Automóviles</p>
               </a>
             </div>
           </div>
