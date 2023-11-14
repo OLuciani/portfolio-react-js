@@ -15,8 +15,8 @@ function Inicio() {
 
   return (
     <>
-      <div id="home" className={`caja-inicio inicio ${showTransitionInicio ? "inicio-transition" : ""}`}>
-        <div className='box-inicio'>
+      <div id="home" className={`caja-inicio inicio`}>
+        <div className={`box-inicio ${showTransitionInicio ? "inicio-transition" : ""}`}>
           <p className="hola">Hola, soy </p>
           <p className="nombre-inicio">Oscar Miguel Luciani</p>
           <p className="p-profesion-inicio">Frontend Developer</p>

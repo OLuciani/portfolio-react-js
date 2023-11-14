@@ -25,7 +25,7 @@
 
 @keyframes slideIn {
   from {
-    transform: translateX(-85%);
+    transform: translateX(-85vw);
   }
   to {
     transform: translateX(0);
@@ -70,6 +70,12 @@
 
   .p-profesion-inicio {
     font-size: 18px;
+  }
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(-40vw);
+    }
   }
 }
 
