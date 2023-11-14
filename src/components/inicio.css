@@ -52,6 +52,12 @@
   .photo {
     width: 60%;
   }
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(-45vw);
+    }
+  }
 }
 
 @media (min-width: 680px) {
@@ -72,11 +78,11 @@
     font-size: 18px;
   }
 
-  @keyframes slideIn {
+  /* @keyframes slideIn {
     from {
       transform: translateX(-40vw);
     }
-  }
+  } */
 }
 
 @media (min-width: 1024px) {
