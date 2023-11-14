@@ -1,10 +1,7 @@
 import React from "react";
 import "./projects.css";
-//import imagenclavedesol from "../img/clave-de-sol.png";
 import imagenlucianiautomoviles from "../img/captura_pantalla-home.png";
-//import imagenportfolio from "../img/portfolio.png";
 import imagenhernandezcabañas from "../img/hernandez_cabañas.png";
-/* import imagennearbytour from "../img/Imagen-NearByTour1.jpeg"; */
 import imagennearbytour from "../img/Imagen-NearByTour1.jpeg";
 import imagenMeddyplus from "../img/Imagen-Meddyplus.jpeg";
 
@@ -14,14 +11,6 @@ function Projects() {
       <h2 className="titulo-projects">Projects</h2>
 
       <div className="caja-madre">
-        {/* <div className="caja-projects">
-          <div className="div-text-project">
-            <p className="text-projects">CLAVE DE SOL:<br/>Proyecto grupal de Ecommerce creado con Node JS, Express y MySQL en el marco de Digital House.</p>
-          </div>
-
-          <img className="image-project" src={imagenclavedesol} alt="imagen-clave-de-sol" />
-        </div> */}
-
         <div className="caja-projects">
           <div className="caja-luciani-automoviles">          
               <div className="div-text-project">
@@ -166,22 +155,6 @@ function Projects() {
             </div>
           </div>
         </div>
-
-        {/* <div className="caja-projects">
-          <div className="div-text-project">
-            <p className="text-projects">
-              PORTFOLIO:
-              <br />
-              Proyecto de este Portfolio creado con React Js.
-            </p>
-          </div>
-
-          <img
-            className="image-project"
-            src={imagenportfolio}
-            alt="imagen-portfolio"
-          />
-        </div> */}
       </div>
     </div>
   );

@@ -1,75 +1,85 @@
- .nombre-inicio {
-    color: white;
-    font-size: 24px;
-    
- }
+.nombre-inicio {
+  color: white;
+  font-size: 24px;
+}
 
 .p-profesion-inicio {
-    font-size: 16px;
-    color:#8D99AE;
-}  
+  font-size: 16px;
+  color: #8d99ae;
+}
 
 .hola {
-    color:#8D99AE;
-    font-size: 24px;
-    padding-top: 5%;
+  color: #8d99ae;
+  font-size: 24px;
+  padding-top: 5%;
 }
 
 .caja-inicio {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
-    padding: 12% 0% 2% 0%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 12% 0% 2% 0%;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-85%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.inicio-transition {
+  animation: slideIn 3s ease;
 }
 
 .photo {
-    width: 60%;
-    border: solid 2px black;
-    border-radius: 50%;
-    margin-top: 5%;
-  } 
-
-@media (min-width: 426px) {
-    .caja-inicio {
-        flex-direction: row;
-        padding: 12% 0% 2% 0%;
-    }
-
-    .photo {
-        width: 60%;
-      } 
+  width: 60%;
+  border: solid 2px black;
+  border-radius: 50%;
+  margin-top: 5%;
 }
 
-  
+@media (min-width: 426px) {
+  .caja-inicio {
+    flex-direction: row;
+    padding: 12% 0% 2% 0%;
+  }
+
+  .photo {
+    width: 60%;
+  }
+}
+
 @media (min-width: 680px) {
-    .caja-inicio {
-        flex-direction: row;
-        padding: 9% 0% 2% 0%;
-    }
-    .nombre-inicio {
-        font-size: 26px;
-        /* font-weight: 700; */
-     }
+  .caja-inicio {
+    flex-direction: row;
+    padding: 9% 0% 2% 0%;
+  }
+  .nombre-inicio {
+    font-size: 26px;
+    /* font-weight: 700; */
+  }
 
-     .hola {
-        font-size: 26px;
-     }
+  .hola {
+    font-size: 26px;
+  }
 
-     .p-profesion-inicio {
-        font-size: 18px;
-    }  
-} 
+  .p-profesion-inicio {
+    font-size: 18px;
+  }
+}
 
 @media (min-width: 1024px) {
-    .caja-inicio {
-        flex-direction: row;
-        padding: 7% 0% 2% 0%;
-    }
+  .caja-inicio {
+    flex-direction: row;
+    padding: 7% 0% 2% 0%;
+  }
 
-    .photo {
-        width: 70%;
-       
-      } 
-} 
+  .photo {
+    width: 70%;
+  }
+}
