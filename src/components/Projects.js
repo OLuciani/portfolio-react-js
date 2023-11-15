@@ -1,7 +1,8 @@
 import React from "react";
 import "./projects.css";
 import imagenlucianiautomoviles from "../img/captura_pantalla-home.png";
-import imagenhernandezcabañas from "../img/hernandez_cabañas.png";
+//import imagenhernandezcabañas from "../img/hernandez_cabañas.png";
+import imagenhernandezcabañas from "../img/image-cabañas.jpeg";
 import imagennearbytour from "../img/Imagen-NearByTour1.jpeg";
 import imagenMeddyplus from "../img/Imagen-Meddyplus.jpeg";
 
