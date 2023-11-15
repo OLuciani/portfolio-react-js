@@ -2,7 +2,7 @@
   color: rgb(243, 136, 94);
   text-align: center;
   padding-top: 11%;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .imagen-about-me {
@@ -38,7 +38,7 @@
   font-size: 16px;
   background-color: #2B2D42;
   color: white;
-  border: solid 2px white;
+  border: solid 1px white;
   padding: 5px 40px;
   border-radius: 5px;
   cursor: pointer;

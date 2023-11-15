@@ -10,8 +10,8 @@ function AboutMe() {
         <div className="caja-about-me">
           <div className="content-text">
             <p className="text-about-me">
-              Apasionado del Desarrollo Web desde principios de 2021, comencé como autodidacta en Java y más tarde completé un Bootcamp de Full Stack Developer (Node.js) en Digital House. Me he capacitado con entusiasmo en herramientas como React.js, Next.js, Typescript, Javascript, HTML, CSS, Tailwind CSS, Vite js, MySQL y MongoDB entre otras.
-              Mi trayectoria comenzó como Full Stack Developer, pero evolucionó hacia un enfoque especializado en el Frontend. Actualmente, colaboro en emulaciones de proyectos reales con equipos multidisciplinarios en No Country, trabajando junto a Backend Developers, UX/UI Designers, TL, PM, y otros. Siempre en busca de nuevas oportunidades de crecimiento y desarrollo profesional, mi objetivo es contribuir en un entorno que valore mis habilidades y fomente mi evolución en la carrera.
+              Inmerso en el fascinante mundo del Desarrollo Web desde principios de 2021, comencé como autodidacta en Java y más tarde completé un Bootcamp de Full Stack Developer (Node.js) en Digital House. Me he capacitado con entusiasmo en herramientas como React.js, Next.js, Typescript, Javascript, HTML, CSS, Tailwind CSS, Vite js, MySQL y MongoDB entre otras.
+              Mi trayectoria comenzó como Full Stack Developer, pero evolucionó hacia un enfoque especializado en el Frontend. Actualmente, colaboro en emulaciones de proyectos reales con equipos multidisciplinarios en No Country, trabajando junto a Backend Developers, UX/UI Designers, TL, PM, y otros. Siempre en busca de nuevas oportunidades de crecimiento y desarrollo profesional, mi objetivo es contribuir en un entorno que valore mis habilidades y estimule mi continuo progreso en la carrera.
             </p>
 
             {/* <div className="div-button-download-CV">

@@ -1,5 +1,5 @@
 .titulo-projects {
-    font-size: 20px;
+    font-size: 22px;
     color: rgb(243, 136, 94);
     padding-top: 11%;
     text-align: center;
@@ -34,9 +34,10 @@
   color: #8D99AE;
   margin-bottom: 3%;
 }
+
 .title-text-projects {
   margin-bottom: -25px;
-  font-size: 20px;
+  /* font-size: 18px; */
   font-weight: 600;
   text-decoration: underline;
 }
@@ -67,7 +68,7 @@
   color: white;
   /* font-size: 18px; */
   font-weight: 600;
-  border: solid 2px white;
+  border: solid 1px white;
   padding: 5px;
   border-radius: 5px;
 }
@@ -81,7 +82,7 @@
  }
 
 .contenedor-presentación {
-  border: solid 2px white;
+  border: solid 1px white;
   border-radius: 5px;
   width: max-content;
   padding: 6px;
@@ -131,6 +132,10 @@
 
   .caja-madre {
     font-size: 18px;
+  }
+
+  .title-text-projects {
+    font-size: 18px; 
   }
 
   .div-text-project {

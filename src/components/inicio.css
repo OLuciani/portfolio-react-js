@@ -20,7 +20,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-evenly;
-  padding: 12% 0% 2% 0%;
+  padding: 12% 0% 0% 0%;
 }
 
 @keyframes slideIn {
@@ -46,7 +46,7 @@
 @media (min-width: 426px) {
   .caja-inicio {
     flex-direction: row;
-    padding: 12% 0% 2% 0%;
+    padding: 12% 0% 0% 0%;
   }
 
   .photo {
@@ -63,7 +63,7 @@
 @media (min-width: 680px) {
   .caja-inicio {
     flex-direction: row;
-    padding: 9% 0% 2% 0%;
+    padding: 9% 0% 0% 0%;
   }
   .nombre-inicio {
     font-size: 26px;
@@ -88,7 +88,7 @@
 @media (min-width: 1024px) {
   .caja-inicio {
     flex-direction: row;
-    padding: 7% 0% 2% 0%;
+    padding: 7% 0% 0% 0%;
   }
 
   .photo {
