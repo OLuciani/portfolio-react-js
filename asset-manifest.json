@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-react-js/static/css/main.6b573b60.css",
-    "main.js": "/portfolio-react-js/static/js/main.ac4106b8.js",
+    "main.js": "/portfolio-react-js/static/js/main.289f50cc.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js",
     "static/media/captura_pantalla-home.png": "/portfolio-react-js/static/media/captura_pantalla-home.ae81d246939a443ac45a.png",
-    "static/media/image-cabañas.jpeg": "/portfolio-react-js/static/media/image-cabañas.f97db51c90b770e3c849.jpeg",
+    "static/media/image-cabañas.jpeg": "/portfolio-react-js/static/media/image-cabañas.0d0cd71b0d4622405d62.jpeg",
     "static/media/Imagen-NearByTour1.jpeg": "/portfolio-react-js/static/media/Imagen-NearByTour1.d5843b021acb89cc91d7.jpeg",
     "static/media/Imagen-Meddyplus.jpeg": "/portfolio-react-js/static/media/Imagen-Meddyplus.2f714b6325cafd957697.jpeg",
     "static/media/node.png": "/portfolio-react-js/static/media/node.007e99f68b718e476aba.png",
@@ -15,11 +15,11 @@
     "static/media/html5.png": "/portfolio-react-js/static/media/html5.6f9a8699c0ea083043f5.png",
     "index.html": "/portfolio-react-js/index.html",
     "main.6b573b60.css.map": "/portfolio-react-js/static/css/main.6b573b60.css.map",
-    "main.ac4106b8.js.map": "/portfolio-react-js/static/js/main.ac4106b8.js.map",
+    "main.289f50cc.js.map": "/portfolio-react-js/static/js/main.289f50cc.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b573b60.css",
-    "static/js/main.ac4106b8.js"
+    "static/js/main.289f50cc.js"
   ]
 }
