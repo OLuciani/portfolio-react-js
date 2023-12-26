@@ -2,7 +2,7 @@ import React from "react";
 import "./projects.css";
 import imagenlucianiautomoviles from "../img/captura_pantalla-home.png";
 //import imagenhernandezcabañas from "../img/hernandez_cabañas.png";
-import imagenhernandezcabañas from "../img/image-cabañas.jpeg";
+import imagenhernandezcabañas from "../img/imagen-Hernandez-Cabañas-JVF.jpeg";
 import imagennearbytour from "../img/Imagen-NearByTour1.jpeg";
 import imagenMeddyplus from "../img/Imagen-Meddyplus.jpeg";
 
@@ -37,7 +37,7 @@ function Projects() {
 
               <div className="contenedor-presentación">
                 <a href="https://www.youtube.com/watch?v=Hc3N-QXwT7Q">
-                  <p>Video presentación de NearByTour</p>
+                  <p>Video presentación</p>
                 </a>
               </div>           
 
@@ -52,7 +52,7 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://nearbytour.vercel.app/home">
-                <p className="button-ver-proyecto">Ver App NearByTour</p>
+                <p className="button-ver-proyecto">Ver app</p>
               </a>
             </div>
           </div>
@@ -80,7 +80,7 @@ function Projects() {
 
               <div className="contenedor-presentación">
                 <a href="https://d3ml0dc5hiowr8.cloudfront.net/meddyplus.mp4">
-                  <p>Video presentación de Meddyplus</p>
+                  <p>Video presentación</p>
                 </a>
               </div>
 
@@ -95,19 +95,24 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://meddyplus.netlify.app">
-                <p className="button-ver-proyecto">Ver App Meddyplus</p>
+                <p className="button-ver-proyecto">Ver app</p>
               </a>
             </div>
           </div>
         </div>
 
         <div className="caja-projects">
+          <div className="sub-caja-projects">
+
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
                 <span className="title-text-projects">Hernandez Cabañas:</span>
                 <br />
-                App para reservas y alquiler de cabañas. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
+                App para reservas y alquiler de cabañas. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). <br /> 
+                Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. 
+                <br />
+                Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
               </span>
             </div>
 
@@ -122,9 +127,10 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://hernandez-cabanas.netlify.app/">
-                <p className="button-ver-proyecto">Ver App Hernandez-Cabañas</p>
+                <p className="button-ver-proyecto">Ver app</p>
               </a>
             </div>
+          </div>
           </div>
         </div>
 
@@ -136,7 +142,11 @@ function Projects() {
                   Luciani-Automóviles:
                 </span>
                 <br />
-                App de consecionaria de automóviles. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
+                App de consecionaria de automóviles. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). 
+                <br />
+                Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. 
+                <br />
+                Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
               </span>
             </div>
 
@@ -151,7 +161,7 @@ function Projects() {
             </div>
             <div className="div-button-ver-proyecto">
               <a href="https://luciani-automoviles.netlify.app/">
-                <p className="button-ver-proyecto">Ver App Luciani-Automóviles</p>
+                <p className="button-ver-proyecto">Ver app</p>
               </a>
             </div>
           </div>

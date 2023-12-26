@@ -91,6 +91,23 @@
   margin-left: 10px;
 }
 
+.icono-vite {
+  color: yellow;
+}
+
+.icono-tailwind {
+  color: lightskyblue;
+}
+
+.icono-mongo-db {
+  color: green;
+}
+
+.icono-typescript {
+  color: rgb(70, 169, 231);
+}
+
+
 
 @media (min-width: 426px) {
   .photo-skills {
