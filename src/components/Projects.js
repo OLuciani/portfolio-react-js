@@ -12,7 +12,7 @@ function Projects() {
       <h2 className="titulo-projects">Projects</h2>
 
       <div className="caja-madre">
-        <div className="caja-projects">
+        <div className="caja-projects espaciado-cajas">
           <div className="caja-luciani-automoviles">          
               <div className="div-text-project">
                 <span className="text-projects">
@@ -58,7 +58,7 @@ function Projects() {
           </div>
         </div>
 
-        <div className="caja-projects">
+        <div className="caja-projects espaciado-cajas">
           <div className="caja-luciani-automoviles">
               <div className="div-text-project">
                 <span className="text-projects">
@@ -101,9 +101,7 @@ function Projects() {
           </div>
         </div>
 
-        <div className="caja-projects">
-          <div className="sub-caja-projects">
-
+        <div className="caja-projects espaciado-una-caja">
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
@@ -130,7 +128,6 @@ function Projects() {
                 <p className="button-ver-proyecto">Ver app</p>
               </a>
             </div>
-          </div>
           </div>
         </div>
 
