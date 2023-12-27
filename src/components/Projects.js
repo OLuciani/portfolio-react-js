@@ -12,34 +12,34 @@ function Projects() {
       <h2 className="titulo-projects">Projects</h2>
 
       <div className="caja-madre">
-        <div className="caja-projects espaciado-cajas">
-          <div className="caja-luciani-automoviles">          
-              <div className="div-text-project">
-                <span className="text-projects">
-                  <span className="title-text-projects">NearByTour:</span>
-                  <br />
-                  Es una aplicación versátil que te permite descubrir tesoros
-                  ocultos y experiencias auténticas en destinos locales de todo
-                  el mundo, al mismo tiempo que te brinda la posibilidad de
-                  contribuir tus propios descubrimientos a la comunidad de
-                  viajeros.
-                  <br />
-                  Fue creada en No Coutry por un grupo de 3 Diseñadores UX UI y 8 Desarrolladrores (6 en
-                  el Frontend y 2 en el Backend). Yo
-                  trabajé en el Frontend.
-                  <br />
-                  Herramientas utilizadas: En el frontend se utilizó Next js 13,
-                  Typescript y Tailwind css. En el backend se utilizó Next js,
-                  Javascript, Firebase, Cloudinary, Postaman y Algolia. Los
-                  Diseñadores UX UI emplearon Figma.
-                </span>
-              </div>
+        <div className="caja-projects">
+          <div className="caja-luciani-automoviles">
+            <div className="div-text-project">
+              <span className="text-projects">
+                <span className="title-text-projects">NearByTour:</span>
+                <br />
+                Es una aplicación versátil que te permite descubrir tesoros
+                ocultos y experiencias auténticas en destinos locales de todo el
+                mundo, al mismo tiempo que te brinda la posibilidad de
+                contribuir tus propios descubrimientos a la comunidad de
+                viajeros.
+                <br />
+                Fue creada en No Coutry por un grupo de 3 Diseñadores UX UI y 8
+                Desarrolladrores (6 en el Frontend y 2 en el Backend). Yo
+                trabajé en el Frontend.
+                <br />
+                Herramientas utilizadas: En el frontend se utilizó Next js 13,
+                Typescript y Tailwind css. En el backend se utilizó Next js,
+                Javascript, Firebase, Cloudinary, Postaman y Algolia. Los
+                Diseñadores UX UI emplearon Figma.
+              </span>
+            </div>
 
-              <div className="contenedor-presentación">
-                <a href="https://www.youtube.com/watch?v=Hc3N-QXwT7Q">
-                  <p>Video presentación</p>
-                </a>
-              </div>           
+            <div className="contenedor-presentación">
+              <a href="https://www.youtube.com/watch?v=Hc3N-QXwT7Q">
+                <p>Video presentación</p>
+              </a>
+            </div>
 
             <div className="div-image-project">
               <a href="https://nearbytour.vercel.app/home">
@@ -58,31 +58,32 @@ function Projects() {
           </div>
         </div>
 
-        <div className="caja-projects espaciado-cajas">
+        <div className="caja-projects">
           <div className="caja-luciani-automoviles">
-              <div className="div-text-project">
-                <span className="text-projects">
-                  <span className="title-text-projects">Meddyplus:</span>
-                  <br />
-                  App para una Clínica de Medicina Integral. Permite crear citas
-                  médicas para atención online, crear historias clínicas online
-                  y muchas otras funciones. Muy práctica tanto para el paciente
-                  como para el médico. 
-                  <br />
-                  Fue creada en No Coutry por un grupo de Desarrolladrores, 3 en
-                  el Frontend y 4 en el Backend. Yo trabajé en el Frontend.
-                  <br />
-                  Herramientas utilizadas: En el frontend
-                  se utilizó Vite, React js, Typescript y Tailwind css. En el
-                  backend se utilizó Node js, Typecript y SQL.
-                </span>
-              </div>
+            <div className="div-text-project">
+              <span className="text-projects">
+                <span className="title-text-projects">Meddyplus:</span>
+                <br />
+                App para una Clínica de Medicina Integral. Permite crear citas
+                médicas para atención online, crear historias clínicas online y
+                muchas otras funciones. Muy práctica tanto para el paciente como
+                para el médico.
+                <br />
+                Fue creada en No Coutry por un grupo de Desarrolladrores, 3 en
+                el Frontend y 4 en el Backend. Yo trabajé en el Frontend. En el
+                Frontend se utilizaron herramientas como Vite, React.js,
+                Typescript y Tailwind CSS, proporcionando una base sólida para
+                una experiencia de usuario fluida y atractiva. En el Backend, se
+                implementaron Node.js, Typescript y SQL para garantizar un
+                rendimiento robusto y una gestión eficiente de la base de datos.
+              </span>
+            </div>
 
-              <div className="contenedor-presentación">
-                <a href="https://d3ml0dc5hiowr8.cloudfront.net/meddyplus.mp4">
-                  <p>Video presentación</p>
-                </a>
-              </div>
+            <div className="contenedor-presentación">
+              <a href="https://d3ml0dc5hiowr8.cloudfront.net/meddyplus.mp4">
+                <p>Video presentación</p>
+              </a>
+            </div>
 
             <div className="div-image-project">
               <a href="https://meddyplus.netlify.app">
@@ -101,16 +102,25 @@ function Projects() {
           </div>
         </div>
 
-        <div className="caja-projects espaciado-una-caja">
+        <div className="caja-projects">
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
                 <span className="title-text-projects">Hernandez Cabañas:</span>
                 <br />
-                App para reservas y alquiler de cabañas. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). <br /> 
-                Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. 
+                Aplicación diseñada para facilitar reservas y alquileres de
+                cabañas, ha sido creada con la poderosa combinación de
+                tecnologías líderes en la industria, tales como React.js,
+                Express.js, Node.js y Mongo DB. Este proyecto, conformado por el
+                stack MERN, destaca por su eficiencia y versatilidad.
                 <br />
-                Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
+                Se hizo uso de Netlify para el despliegue del frontend y Render
+                para el backend. Estas opciones han sido elegidas por su
+                confiabilidad, garantizando un rendimiento estable y eficiente
+                en todas las áreas de la aplicación. En la gestión de datos,
+                Hernandez Cabañas utiliza la robusta plataforma de bases de
+                datos Mongo DB Atlas, un entorno seguro y eficiente para
+                almacenar y recuperar datos críticos.
               </span>
             </div>
 
@@ -123,6 +133,7 @@ function Projects() {
                 />
               </a>
             </div>
+
             <div className="div-button-ver-proyecto">
               <a href="https://hernandez-cabanas.netlify.app/">
                 <p className="button-ver-proyecto">Ver app</p>
@@ -139,11 +150,20 @@ function Projects() {
                   Luciani-Automóviles:
                 </span>
                 <br />
-                App de consecionaria de automóviles. Crada con React js, Express js, Node js y Mongo DB (Mern Stack Project). 
-                <br />
-                Se utiliza Netlify para el deploy del Frontend y Render para el Backend. Para la Base de Datos empleo Mongo DB Atlas. 
-                <br />
-                Cabe aclarar que al utilizar un plan gratuito de Render tiene una demora la primera vez que se piden datos al Backend.
+                App de consecionaria de automóviles. Crada con React js, Express
+                js, Node js y Mongo DB (Mern Stack Project). Para el despliegue
+                del frontend, se confía en la eficiencia de Netlify, una
+                plataforma reconocida por su facilidad de uso y robustez. En el
+                ámbito del backend, la aplicación se apoya en Render, una opción
+                confiable que garantiza un rendimiento estable y eficiente. En
+                lo que respecta a la gestión de datos, se hace uso de la
+                avanzada plataforma de bases de datos MongoDB Atlas. Esta
+                elección estratégica permite almacenar y recuperar datos de
+                manera segura y eficiente, asegurando la integridad y
+                disponibilidad de toda información relevante. Es importante
+                señalar que, debido a la elección de un plan gratuito en Render,
+                es posible experimentar una demora inicial al solicitar datos al
+                backend.
               </span>
             </div>
 

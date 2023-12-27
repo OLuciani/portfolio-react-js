@@ -11,7 +11,7 @@
   flex-direction: row;
   align-items: center;
   justify-content:center;
-  padding: 2% 0% 2% 0%;
+  padding: 2% 0% 1% 0%;
   /* gap: 25px; */
 }
 
@@ -35,6 +35,7 @@
   border-radius: 10px;
   margin-right: 3%;
   margin-left: 3%;
+  margin-bottom: 5%;
 }
 
 .div-text-project {
@@ -167,15 +168,16 @@
   } */
 }
 
-@media (min-width: 1430px) {
+@media (min-width: 1024px) {
   .titulo-projects {
     padding-top: 4.5%;
   }
 
   .caja-projects {
-    width: 600px;
-    height: 725px;
+    width: 450px;
+    height: 720px;
     align-items: start;
+    margin-bottom: 3%;
   }
 
   .div-image-project {
@@ -186,9 +188,9 @@
   }
 
   .image-project {
-    /* width: 40vw; */
+    width: 420px;
     /* width: 37vw; */
-    width: 560px;
+    /* width: 560px; */
     margin-left: 0.1%;
   }
 
