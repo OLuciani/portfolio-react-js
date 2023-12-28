@@ -5,7 +5,7 @@ import imagenlucianiautomoviles from "../img/captura_pantalla-home.png";
 import imagenhernandezcabañas from "../img/imagen-Hernandez-Cabañas-JVF.jpeg";
 import imagennearbytour from "../img/Imagen-NearByTour1.jpeg";
 import imagenMeddyplus from "../img/Imagen-Meddyplus.jpeg";
-import imagenAyudaHumanitaria from "../img/imagen.humanitarian-aid.jpeg";
+//import imagenAyudaHumanitaria from "../img/imagen.humanitarian-aid.jpeg";
 
 function Projects() {
   return (
@@ -13,7 +13,7 @@ function Projects() {
       <h2 className="titulo-projects">Projects</h2>
 
       <div className="caja-madre">
-        <div className="caja-projects">
+        {/* <div className="caja-projects">
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
@@ -49,7 +49,7 @@ function Projects() {
               </a>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="caja-projects">
           <div className="caja-luciani-automoviles">
