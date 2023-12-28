@@ -24,11 +24,6 @@
 }
 
 .caja-projects {
-  /* display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center; */
   padding-top: 2%;
   padding-bottom: 2%;
   border: solid 1px #8D99AE;
@@ -52,9 +47,12 @@
 
 .title-text-projects {
   margin-bottom: -25px;
-  /* font-size: 18px; */
-  font-weight: 600;
-  /* text-decoration: underline; */
+  font-weight: 700;
+}
+
+.fecha-app {
+  margin-left: 5px;
+  font-size: 16px;
 }
 
 .div-image-project  {

@@ -5,6 +5,7 @@ import imagenlucianiautomoviles from "../img/captura_pantalla-home.png";
 import imagenhernandezcabañas from "../img/imagen-Hernandez-Cabañas-JVF.jpeg";
 import imagennearbytour from "../img/Imagen-NearByTour1.jpeg";
 import imagenMeddyplus from "../img/Imagen-Meddyplus.jpeg";
+import imagenAyudaHumanitaria from "../img/imagen.humanitarian-aid.jpeg";
 
 function Projects() {
   return (
@@ -16,7 +17,45 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">NearByTour:</span>
+                <span className="title-text-projects">Ayuda Humanitaria</span><span className="fecha-app">(Nov/Dic 2023):</span>
+                <br />
+                Es una aplicación diseñada para gestionar donaciones voluntarias en situaciones de desastres naturales, accidentes u otras adversidades. Creamos esta aplicación en No Country con la colaboración de un grupo de 5 desarrolladores (3 en el Frontend y 2 en el Backend), junto con un QA Tester. En mi caso, participé en el Frontend.
+                <br />
+                Herramientas utilizadas: en el frontend se utilizó Next js 13,
+                Typescript, Tailwind css y Redux. En el backend se utilizó
+                ASp.Net, MVC WebApi, SqlServer y Microsopt Identity. Por último
+                el QA Tester utilizó Excel y Jira.
+              </span>
+            </div>
+
+            <div className="contenedor-presentación">
+              <a href="https://www.youtube.com/watch?v=eUTqOknSewE&list=LL&index=3">
+                <p>Video presentación</p>
+              </a>
+            </div>
+
+            <div className="div-image-project">
+              <a href="https://s12-18-tn-csharp-next.vercel.app/">
+                <img
+                  className="image-project"
+                  src={imagenAyudaHumanitaria}
+                  alt="Imágen NearByTour"
+                />
+              </a>
+            </div>
+            <div className="div-button-ver-proyecto">
+              <a href="https://s12-18-tn-csharp-next.vercel.app/">
+                <p className="button-ver-proyecto">Ver app</p>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="caja-projects">
+          <div className="caja-luciani-automoviles">
+            <div className="div-text-project">
+              <span className="text-projects">
+                <span className="title-text-projects">NearByTour</span><span className="fecha-app">(Set/Oct 2023):</span>
                 <br />
                 Es una aplicación versátil que te permite descubrir tesoros
                 ocultos y experiencias auténticas en destinos locales de todo el
@@ -62,7 +101,7 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">Meddyplus:</span>
+                <span className="title-text-projects">Meddyplus</span><span className="fecha-app">(Ago/Set 2023):</span>
                 <br />
                 App para una Clínica de Medicina Integral. Permite crear citas
                 médicas para atención online, crear historias clínicas online y
@@ -106,7 +145,7 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">Hernandez Cabañas:</span>
+                <span className="title-text-projects">Hernandez Cabañas</span><span className="fecha-app">(Abr/Dic 2023):</span>
                 <br />
                 Aplicación diseñada para facilitar reservas y alquileres de
                 cabañas, ha sido creada con la poderosa combinación de
@@ -147,8 +186,9 @@ function Projects() {
             <div className="div-text-project">
               <span className="text-projects">
                 <span className="title-text-projects">
-                  Luciani-Automóviles:
+                  Luciani-Automóviles
                 </span>
+                <span className="fecha-app">(Feb/Mar 2023):</span>
                 <br />
                 App de consecionaria de automóviles. Crada con React js, Express
                 js, Node js y Mongo DB (Mern Stack Project). Para el despliegue
