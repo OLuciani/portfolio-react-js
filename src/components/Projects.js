@@ -1,11 +1,10 @@
 import React from "react";
 import "./projects.css";
 import imagenlucianiautomoviles from "../img/captura_pantalla-home.png";
-//import imagenhernandezcabañas from "../img/hernandez_cabañas.png";
 import imagenhernandezcabañas from "../img/imagen-Hernandez-Cabañas-JVF.jpeg";
 import imagennearbytour from "../img/Imagen-NearByTour1.jpeg";
 import imagenMeddyplus from "../img/Imagen-Meddyplus.jpeg";
-//import imagenAyudaHumanitaria from "../img/imagen.humanitarian-aid.jpeg";
+import imagenAyudaHumanitaria from "../img/imagen.humanitarian-aid.jpeg";
 
 function Projects() {
   return (
@@ -13,13 +12,19 @@ function Projects() {
       <h2 className="titulo-projects">Projects</h2>
 
       <div className="caja-madre">
-        {/* <div className="caja-projects">
+        <div className="caja-projects">
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">Ayuda Humanitaria</span><span className="fecha-app">(Nov/Dic 2023):</span>
+                <span className="title-text-projects">Ayuda Humanitaria</span>
+                <span className="fecha-app">(Nov/Dic 2023):</span>
                 <br />
-                Es una aplicación diseñada para gestionar donaciones voluntarias en situaciones de desastres naturales, accidentes u otras adversidades. Creamos esta aplicación en No Country con la colaboración de un grupo de 5 desarrolladores (3 en el Frontend y 2 en el Backend), junto con un QA Tester. En mi caso, participé en el Frontend.
+                Es una aplicación diseñada para gestionar donaciones voluntarias
+                en situaciones de desastres naturales, accidentes u otras
+                adversidades. Creamos esta aplicación en No Country con la
+                colaboración de un grupo de 5 desarrolladores (3 en el Frontend
+                y 2 en el Backend), junto con un QA Tester. En mi caso,
+                participé en el Frontend.
                 <br />
                 Herramientas utilizadas: en el frontend se utilizó Next js 13,
                 Typescript, Tailwind css y Redux. En el backend se utilizó
@@ -49,13 +54,14 @@ function Projects() {
               </a>
             </div>
           </div>
-        </div> */}
+        </div>
 
         <div className="caja-projects">
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">NearByTour</span><span className="fecha-app">(Set/Oct 2023):</span>
+                <span className="title-text-projects">NearByTour</span>
+                <span className="fecha-app">(Oct/Nov 2023):</span>
                 <br />
                 Es una aplicación versátil que te permite descubrir tesoros
                 ocultos y experiencias auténticas en destinos locales de todo el
@@ -101,7 +107,8 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">Meddyplus</span><span className="fecha-app">(Ago/Set 2023):</span>
+                <span className="title-text-projects">Meddyplus</span>
+                <span className="fecha-app">(Ago/Set 2023):</span>
                 <br />
                 App para una Clínica de Medicina Integral. Permite crear citas
                 médicas para atención online, crear historias clínicas online y
@@ -145,7 +152,8 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">Hernandez Cabañas</span><span className="fecha-app">(Abr/Dic 2023):</span>
+                <span className="title-text-projects">Hernandez Cabañas</span>
+                <span className="fecha-app">(Abr/Dic 2023):</span>
                 <br />
                 Aplicación diseñada para facilitar reservas y alquileres de
                 cabañas, ha sido creada con la poderosa combinación de
@@ -185,9 +193,7 @@ function Projects() {
           <div className="caja-luciani-automoviles">
             <div className="div-text-project">
               <span className="text-projects">
-                <span className="title-text-projects">
-                  Luciani-Automóviles
-                </span>
+                <span className="title-text-projects">Luciani-Automóviles</span>
                 <span className="fecha-app">(Feb/Mar 2023):</span>
                 <br />
                 App de consecionaria de automóviles. Crada con React js, Express

@@ -81,7 +81,6 @@
   text-align: center;
   background-color: #2B2D42;
   color: white;
-  /* font-size: 18px; */
   font-weight: 600;
   border: solid 1px white;
   padding: 5px;
@@ -100,7 +99,6 @@
   border: solid 1px white;
   border-radius: 5px;
   width: 260px;
-  /* padding: 6px; */
   text-align: center;
   padding: 5px;
   margin: auto;
@@ -110,10 +108,6 @@
 .contenedor-presentación a {
   color: white;
 }
-
-/* .contenedor-presentación a:hover {
-  color: #8D99AE;
-} */
 
 .contenedor-presentación:hover {
   background-color: #8D99AE;
@@ -143,10 +137,6 @@
     width: 90%;
   }
 
-  /* .div-button-ver-proyecto {
-    width: 180px;
-  } */
-
   .caja-madre {
     font-size: 18px;
   }
@@ -158,12 +148,6 @@
   .div-text-project {
     margin-bottom: 2%;
   }
-
-  /* .caja-projects {
-    width: 40vw;
-    height: 650px;
-    justify-content: center;
-  } */
 }
 
 @media (min-width: 1024px) {
@@ -187,19 +171,12 @@
 
   .image-project {
     width: 420px;
-    /* width: 37vw; */
-    /* width: 560px; */
     margin-left: 0.1%;
   }
 
   .div-text-project {
-    /* width: 80vw; */
     text-align: left;
   }
-
-  /* .div-button-ver-proyecto {
-    width: 210px;
-  } */
 
   .espaciado-cajas {
     margin-bottom: 3%;

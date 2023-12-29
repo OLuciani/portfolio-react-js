@@ -26,12 +26,9 @@
 }
 
 .photo-skills {
-  /* margin-left: 3%;
-  margin-right: 3%; */
   width: 50%;
   border: solid 1px black;
   border-radius: 50%;
-  /* margin-bottom: 3%; */
   margin: 3%;
 }  
 
