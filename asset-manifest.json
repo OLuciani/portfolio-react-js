@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-react-js/static/css/main.61d8d117.css",
-    "main.js": "/portfolio-react-js/static/js/main.45cfbc5d.js",
+    "main.js": "/portfolio-react-js/static/js/main.5b746a82.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js",
     "static/media/captura_pantalla-home.png": "/portfolio-react-js/static/media/captura_pantalla-home.ae81d246939a443ac45a.png",
     "static/media/imagen-Hernandez-Cabañas-JVF.jpeg": "/portfolio-react-js/static/media/imagen-Hernandez-Cabañas-JVF.f17c0a1ba45b03b1acb5.jpeg",
     "static/media/Imagen-NearByTour1.jpeg": "/portfolio-react-js/static/media/Imagen-NearByTour1.d5843b021acb89cc91d7.jpeg",
     "static/media/Imagen-Meddyplus.jpeg": "/portfolio-react-js/static/media/Imagen-Meddyplus.2f714b6325cafd957697.jpeg",
+    "static/media/imagen.humanitarian-aid.jpeg": "/portfolio-react-js/static/media/imagen.humanitarian-aid.de6da98a173b28f7f3c4.jpeg",
     "static/media/node.png": "/portfolio-react-js/static/media/node.007e99f68b718e476aba.png",
     "static/media/contacts.jpg": "/portfolio-react-js/static/media/contacts.30cf766c9f903de5bb78.jpg",
     "static/media/desarrollador.webp": "/portfolio-react-js/static/media/desarrollador.10191a15868f266bb890.webp",
@@ -15,11 +16,11 @@
     "static/media/html5.png": "/portfolio-react-js/static/media/html5.6f9a8699c0ea083043f5.png",
     "index.html": "/portfolio-react-js/index.html",
     "main.61d8d117.css.map": "/portfolio-react-js/static/css/main.61d8d117.css.map",
-    "main.45cfbc5d.js.map": "/portfolio-react-js/static/js/main.45cfbc5d.js.map",
+    "main.5b746a82.js.map": "/portfolio-react-js/static/js/main.5b746a82.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-react-js/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61d8d117.css",
-    "static/js/main.45cfbc5d.js"
+    "static/js/main.5b746a82.js"
   ]
 }
